@@ -189,7 +189,7 @@
     "vite": "^5.2.7",
     "vitepress": "^1.0.2",
     "vue": "^3.4.21",
-    "wasm-pack": "^0.12.1",
+    "wasm-pack": "https://gitpkg.now.sh/rustwasm/wasm-pack/npm?master",
     "weak-napi": "^2.0.2",
     "yargs-parser": "^21.1.1"
   },
